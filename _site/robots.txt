@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/jekyll-doc-theme/sitemap.xml
+Sitemap: https://sandra-jones-and-company.github.io/jekyll-doc-theme/jekyll-doc-theme/sitemap.xml
