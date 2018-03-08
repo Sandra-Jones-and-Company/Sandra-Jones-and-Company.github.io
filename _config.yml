@@ -29,6 +29,8 @@ exclude:
   - .idea/
   - .gitignore
   - README.md
+  - vendor
+  - Rakefile
 timezone: Europe/Berlin
 defaults:
 - scope:
