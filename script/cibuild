@@ -14,7 +14,7 @@ rm -rf _site
 mkdir _site
 
 # clone remote repo to "_site"
-git clone https://${GITHUB_TOKEN}@github.com/Sandra-Jones-and-Company/Sandra-Jones-and-Company.github.io.git --branch gh-pages _site
+git clone https://${GITHUB_TOKEN}@github.com/Sandra-Jones-and-Company/Sandra-Jones-and-Company.github.io.git --branch master _site
 
 # build with Jekyll into "_site"
 bundle exec jekyll build
@@ -25,5 +25,4 @@ git config user.email "rcdurantb@gmail.com"
 git config user.name "rewphus"
 git add --all
 git commit -a -m "Travis #$TRAVIS_BUILD_NUMBER"
-git push --force origin gh-pages
-
+git push --force origin master
