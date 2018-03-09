@@ -1,1 +1,1 @@
-Sitemap: https://sandra-jones-and-company.github.io/_site/sitemap.xml
+Sitemap: https://sandra-jones-and-company.github.io/sitemap.xml
