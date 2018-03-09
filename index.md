@@ -1,4 +1,6 @@
---- layout: default ---
+--- 
+layout: default 
+---
 
 <div class="header-container jumbotron">
     <div class="container">
@@ -10,7 +12,6 @@
 
 
 <div class="container">
-
     <div class="row">
         <div class="col-md-6">
             <h2 class="header-light regular-pad">What is Jekyll?</h2>
@@ -25,9 +26,7 @@
             <img src="img/jekyll-dark.png" alt="" class="img-responsive">
         </div>
     </div>
-
     <hr>
-
     <div class="row">
         <div class="col-sm-4">
             <h1 class="text-center"><i class="fa fa-pencil" aria-hidden="true"></i></h1>
