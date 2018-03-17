@@ -1,9 +1,9 @@
 # Site settings
-title: Jekyll Doc Theme
-email: your-email@domain.com
+title: Sandra Jones and Company
+email: sandy@sjandco.com
 description: >
-  Jekyll Template for Project Websites
-  providing documentation and blog post pages.
+  Sandra Jones and Company
+    Security Industry Resource and Consulting Firm
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: https://Sandra-Jones-and-Company.github.io # the base hostname & protocol for your site
@@ -34,25 +34,27 @@ exclude:
 timezone: Europe/Berlin
 defaults:
 - scope:
-    path: _posts
-    type: posts
+    path: _clients
+    type: clients
   values:
-    layout: post
-    sectionid: blog
-
-- scope:
-    path: _docs
-    type: docs
-  values:
-    layout: docs
-    sectionid: docs
+    layout: clients
+    sectionid: clients
     seo:
       type: "WebPage"
 
+- scope:
+    path: _about
+    type: about
+  values:
+    layout: about
+    sectionid: about
+    seo:
+      type: "WebPage"   
+
 collections:
-  docs:
+  about:
     permalink: /:collection/:path/
     output: true
-  posts:
-    permalink: /blog/:year/:month/:day/:title/
+  clients:
+    permalink: /:collection/:path/
     output: true

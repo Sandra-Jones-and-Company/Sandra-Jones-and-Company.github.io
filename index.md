@@ -4,9 +4,9 @@ layout: default
 
 <div class="header-container jumbotron">
     <div class="container">
-        <h1>Jekyll Ttemplate for Prsoject Websites</h1>
-        <p>Simple and modern design for publishing blog posts, documentation and many more things for your project. You can now clone and start to create a website for your project like this one.</p>
-        <p><a class="btn btn-primary btn-lg" href="{{ " /docs/home/ " | prepend: site.baseurl }}" role="button">Learn more</a></p>
+        <h1>Sandra Jones and Company</h1>
+        <p>Security Industry Resource and Consulting Firm</p>
+        <p><a class="btn btn-primary btn-lg" href="{{ " /about/home/ " | prepend: site.baseurl }}" role="button">Learn more</a></p>
     </div>
 </div>
 
@@ -14,19 +14,30 @@ layout: default
 <div class="container">
     <div class="row">
         <div class="col-md-6">
-            <h2 class="header-light regular-pad">What is Jekyll?</h2>
-            <blockquote>
-                <p>Jekyll is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like <a href="https://daringfireball.net/projects/markdown/">Markdown</a>)
-                    and our <a href="https://github.com/Shopify/liquid/wiki">Liquid</a> renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server. Jekyll also happens to be the engine behind
-                    <a href="https://pages.github.com">GitHub Pages</a>, which means you can use Jekyll to host your project’s page, blog, or website from GitHub’s servers <strong>for
-              free</strong>.</p>
-            </blockquote>
+            <h2 class="header-light regular-pad">The results of our work...</h2>
+                <p>Since its inception in 1990, Sandra Jones and Company has delivered unparalleled results to senior executives from the security industry's leading manufacturers and installer as well as organizations considering investing or entering the market. </p>
+                <p>Our goal is always the same: accelerate client profits and goals while helping them to avoid activities that squander precious time and money. This can be accomplished through a refined strategy, introduction, acquisition or customized consulting project.</p>
+                <p>Sandra Jones and Company delivers solutions and services to the security industry's most respected and talented specialists worldwide. You can leverage our experience, knowledge and relationships to gain a deeper understanding of the market, its participants and trends shaping the future to insure your investment and time yields the best possible results. </p>
+                <p>As one of the few independent resources in the industry clients can trust our un-biased recommendations, insights and guidance when looking to bring a new product to market, expand into a new sector, reposition, invest, sell or grow their business. </p>
         </div>
-        <div class="col-md-6 text-center">
-            <img src="img/jekyll-dark.png" alt="" class="img-responsive">
+        <div class="col-md-6">
+            <h3>By using Sandra Jones And Company you are Guaranteed to:</h3>
+                <ol type="1">
+                    <li>Accelerate Your Time To Market</li>
+                    <li>Meet the Right Decision Makers</li>
+                    <li>Gain Critical Insights Into the Market, Buyers and Their Motivations</li>
+                    <li>Uncover Ways To Increase Your Value</li>
+                    <li>Understand Your Competition</li>
+                    <li>Compete More Profitability and Effectively</li>
+                    <li>Uncover New Profit and Revenue Opportunities</li>
+                    <li>Refine Products and Services Before Launching Them</li>
+                    <li>Avoid Critical (or Even Deadly) Errors When Bringing New Products To Market</li>
+                    <li>Find Buyers, Sellers, Investors or Partners</li>
+                    <li>Obtain Facts on Which Informed Business Decisions Can Be Made</li>
+                </ol>    
         </div>
     </div>
-    <hr>
+    <!-- <hr>
     <div class="row">
         <div class="col-sm-4">
             <h1 class="text-center"><i class="fa fa-pencil" aria-hidden="true"></i></h1>
@@ -45,7 +56,7 @@ layout: default
             <h3 class="text-center">Git-based source control</h3>
             <p>Leverage from Git version control system by maintaining your documentation along with the source code; publish the page when you merge to the master branch.</p>
         </div>
-    </div>
+    </div> -->
 
 
 </div>
