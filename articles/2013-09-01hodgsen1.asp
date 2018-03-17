@@ -1,0 +1,649 @@
+<%@LANGUAGE="VBSCRIPT"%>
+<%
+pageName="News and Articles"
+area="about"
+%>
+<!--#INCLUDE file="/header.asp" --><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-32560772-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script><style type="text/css">
+#quotetext {
+	text-align: center;
+	margin: 0px;
+	padding: 10px;
+	width: 526px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-style: italic;
+	border: thin solid #eec14a;
+	background-color: #FEC949;
+
+}
+</style>
+      <!--begin body content-->  
+<br />
+<h1>The results of our work...</h1><br />
+		<br />
+<div id="quotetext" align="center">
+	<script type="text/javascript" >
+var myquotes = new Array(
+
+        '"providing on target advice"',
+        '"uncovered new additional opportunities for growth and profit"',
+		'"clearly and positively impacted our long term strategic direction"',
+		'"gets results and never disappoints"',
+		'"no one knows the industry and key decision makers like SJandCo"',
+		'"ability to meet our information needs, timescale and budget"',
+		'"a go-to organization when one needs insights into the security industry"',
+		'"played a critical role in our successful launch into the Security channel"',
+		'"wealth of experience and insight to the task of interpreting industry dynamics and trends"',
+		'"answers that actually help me get my work done"',
+		'"yield new insight that are valuable"',
+		'"I learned in 30 days what would have taken me months or even a year to discover on my own"',
+		'"enhanced the value of our business in a short period of time"' // Leave the last quote without a comma at the end
+        );
+  
+function rotatequote()
+{
+        thequote = myquotes.shift(); //Pull the top one
+        myquotes.push(thequote); //And add it back to the end
+       
+        document.getElementById('quotetext').innerHTML = thequote;
+        // This rotates the quote every 10 seconds.
+        // Replace 10000 with (the number of seconds you want) * 1000
+        t=setTimeout("rotatequote()",5000);
+}
+ 
+// Start the first rotation.
+rotatequote();
+</script> 
+</div> <p><br />
+	<br />
+	<!--begin body content-->
+
+</p>
+<table border="0" width="90%">
+	<tr>
+		<td class="magtitle">&nbsp;</td>
+		<td valign="top">&nbsp;</td>
+	</tr>
+	<tr>
+		<td width="80%" class="magtitle"><h2 class="majorHeading1">Why Access Control Is Ready to Ascend</h2>
+			<em>SecuritySales.com</em></td>
+		<td valign="top"><a href="http://www.securitysales.com/channel/access-control/articles/2013/06/why-access-control-is-ready-to-ascend.aspx" target="_blank" >Read 
+			More</a></td>
+	</tr>
+	<tr>
+		<td width="80%">June 2013</td>
+	</tr>
+</table>
+<br />
+<p><br />
+	<img src="../images/hr.jpg" alt="Security industry trends" />
+	<br clear="all" />
+	<br />
+</p>
+<table border="0" width="90%">
+	<tr>
+		<td width="80%" class="magtitle"><h2 class="majorHeading1">What are You Looking For?</h2>			<em>ISC West Show Daily</em></td>
+		<td valign="top"><a href="2013 ISCW Show Daily - Sandy Jones.pdf" target="_blank" >Read 
+			More</a></td>
+	</tr>
+	<tr>
+		<td width="80%">April 2013</td>
+	</tr>
+</table>
+<br />
+<p><br />
+	<img src="../images/hr.jpg" alt="Security industry trends" />
+	<br clear="all" />
+	<br />
+</p>
+<table border="0" width="90%">
+	<tr>
+		<td width="80%" class="magtitle"><h2 class="majorHeading1">Top 5 Trends, Challenges & Projections:<br />
+			How the Experts See It</h2><em>SecuritySales.com</em></td>
+		<td valign="top"><a href="SECUR_12-13.pdf" target="_blank" >Read 
+			More</a></td>
+	</tr>
+	<tr>
+		<td width="80%">January 2013</td>
+	</tr>
+</table>
+<br />
+<p><br />
+	<img src="../images/hr.jpg" /><br clear="all" />
+	<br />
+</p>
+<table border=0 width="90%"> <tr>
+                  
+                <td width="80%" class="magtitle"> 
+                  <h2 class="majorHeading1">4 Trends Set to Transform Security Proposition</h2></td>
+                  
+                <td valign="top"><a href="2012-04TrendsSettoTransform.pdf" target="_blank" >Read 
+                  More</a></td>
+                </tr> <tr>
+                  
+                <td width="80%">April 2012</td>
+                </tr> 
+</table>
+<br />
+<br /><img src="../images/hr.jpg" /><br clear="all" />
+<br /> 
+<table border=0 width="90%"> <tr>
+                  
+                <td width="80%" class="magtitle"> 
+                  <h2 class="majorHeading1">Changing the Distribution Channel</h2></td>
+                  
+                <td valign="top"><a href="2012-03ChangingtheDistributionChannel.pdf" target="_blank" >Read 
+                  More</a></td>
+                </tr> <tr>
+                  
+                <td width="80%">March 2012</td>
+                </tr> 
+</table>
+<br />
+<br /><img src="../images/hr.jpg" /><br clear="all" />
+<br /> 
+<table border=0 width="90%"> <tr>
+                  
+                <td width="80%" class="magtitle"> 
+                  <h2 class="majorHeading1">Top 5 Trends, Challenges and Projections</h2></td>
+                  
+                <td valign="top"><a href="2012-03top5Trends.pdf" target="_blank" >Read 
+                  More</a></td>
+                </tr> <tr>
+                  
+                <td width="80%">March 2012</td>
+                </tr> 
+</table>
+
+<br />
+<br /><img src="../images/hr.jpg" /><br clear="all" />
+<br /> 
+<table border=0 width="90%"> <tr>
+                  
+                <td width="80%" class="magtitle"> 
+                  <h2 class="majorHeading1">See New Channel Trends Research </h2></td>
+                  
+                <td><a href="../documents/trends.pdf" target="_blank" >Read 
+                  More</a></td>
+                </tr> <tr>
+                  
+                <td width="80%">November 2011</td>
+                </tr> 
+</table>
+<br />
+<br />
+<img src="../images/hr.jpg" /><br clear="all" />
+<br /> 
+<table border=0 width="90%"> <tr>
+                  
+                <td width="80%" class="magtitle"> 
+                  <h2 class="majorHeading1">Member Profile – Sandra Jones</h2> 
+                <span class="magtitle"><em>Security Industry Association Update</em></span></td>
+                  
+                <td valign="BOTTOM" ><a href="http://newsmanager.commpartners.com/sianews/issues/2011-06-24/2.html" target="_blank" >Read 
+                  More</a></td>
+                </tr> <tr>
+                  
+                <td width="80%">June 2011</td>
+                </tr> 
+</table>
+            <br />
+            <br />
+            <img src="../images/hr.jpg" alt="Security Industry Resource and Consultants" />
+			<br clear="all" />
+			<br />
+			<table border="0" width="90%">
+				<tr>
+					<td width="80%" class="magtitle"><h2 class="majorHeading1">Video: Challenges Facing Security Integration Business</h2>
+						<em>SecurityInfoWatch.com</em></td>
+					<td valign="bottom" ><a href="http://video.securityinfowatch.com/Tradeshow_Coverage/Caught_on_Camera_Sandra_Jones_discusses_challenges_facing_security_integration_business/969333533001:::::::4/" target="_blank" >Read 
+						More</a></td>
+				</tr>
+				<tr>
+					<td width="80%">May 2011<br />
+						<br />
+						<object id="flashObj" width="360" height="300" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,47,0"><param name="movie" value="http://c.brightcove.com/services/viewer/federated_f9?isVid=1" /><param name="bgcolor" value="#FFFFFF" /><param name="flashVars" value="videoId=969333533001&linkBaseURL=http%3A%2F%2Fvideo.securityinfowatch.com%2FTradeshow_Coverage%2FCaught_on_Camera_Sandra_Jones_discusses_challenges_facing_security_integration_business%2F969333533001%3A%3A%3A%3A%3A%3A%3A4%2F&playerID=17952518001&playerKey=AQ~~,AAAAAGL7Lpg~,7QJgBeLR9FkyKP8EjTQkyS85Wtty41n5&domain=embed&dynamicStreaming=true" /><param name="base" value="http://admin.brightcove.com" /><param name="seamlesstabbing" value="false" /><param name="allowFullScreen" value="true" /><param name="swLiveConnect" value="true" /><param name="allowScriptAccess" value="always" /><embed src="http://c.brightcove.com/services/viewer/federated_f9?isVid=1" bgcolor="#FFFFFF" flashvars="videoId=969333533001&linkBaseURL=http%3A%2F%2Fvideo.securityinfowatch.com%2FTradeshow_Coverage%2FCaught_on_Camera_Sandra_Jones_discusses_challenges_facing_security_integration_business%2F969333533001%3A%3A%3A%3A%3A%3A%3A4%2F&playerID=17952518001&playerKey=AQ~~,AAAAAGL7Lpg~,7QJgBeLR9FkyKP8EjTQkyS85Wtty41n5&domain=embed&dynamicStreaming=true" base="http://admin.brightcove.com" name="flashObj" width="360" height="300" seamlesstabbing="false" type="application/x-shockwave-flash" allowfullscreen="true" swliveconnect="true" allowscriptaccess="always" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></embed></object></td>
+				</tr>
+		</table>
+			<br />
+			<br />
+			<img src="../images/hr.jpg" alt="Security Industry Resource and Consultants" />
+			<br clear="all" />
+			<br />
+			<table border="0" width="90%">
+				<tr>
+					<td width="80%" class="magtitle"><h2 class="majorHeading1">Future of  Physical Security as Seen by Specifiers and Consultants</h2>
+						<em>PSA TV</em></td>
+					<td valign="bottom" ><a href="http://www.buypsa.com/About/PSA-TV?bcpid=774780848001&amp;bckey=AQ~~,AAAAr3iy4hE~,gNhjcWwgvF5iFJCzSjC0FldsNwnjh2kb&amp;bclid=754873519001&amp;bctid=980217182001" target="_blank" >Read 
+						More</a></td>
+				</tr>
+				<tr>
+					<td width="80%">May 2011</td>
+				</tr>
+		</table>
+			<br />
+			<br />
+<img src="../images/hr.jpg" alt="Security Industry Resource and Consultants" />
+            <br clear="all" />
+            <br />
+			<table border="0" width="90%">
+				<tr>
+					<td width="80%" class="magtitle"><h2 class="majorHeading1">The Cloud to Connections: 5 Market Changers to Watch</h2>
+						<em>ISC West Show Daily</em></td>
+					<td valign="bottom" ><a href="2011 ISC West Show Daily.pdf" target="_blank" >Read 
+						More</a></td>
+				</tr>
+				<tr>
+					<td width="80%">April 2011</td>
+				</tr>
+		</table>
+			<br />
+<br />
+			<img src="../images/hr.jpg" alt="Security Industry Resource and Consultants" />
+			<br clear="all" />
+			<br />
+			<table border="0" width="90%">
+				<tr>
+					<td width="80%" class="magtitle"><h2 class="majorHeading1">2011 ISC West State of the Industry Panel</h2>
+						<em>Moderated by Sandra Jones</em></td>
+					<td valign="bottom" ><a href="2011 ISC West Show Daily 2.pdf" target="_blank" >Read 
+						More</a></td>
+				</tr>
+				<tr>
+					<td width="80%">April 2011</td>
+				</tr>
+		</table>
+			<br />
+			<br /><img src="../images/hr.jpg" /><br clear="all" />
+			<br /> 
+			<table border=0 width="90%"> <tr>
+                  
+                <td width="80%" class="magtitle"> 
+                  <h2 class="majorHeading1">Industry Trends and Challenges</h2></td>
+                  
+                <td valign="top"><a href="2012-03IndustryTrendsandChallenges.pdf" target="_blank" >Read 
+                  More</a></td>
+                </tr> <tr>
+                  
+                <td width="80%">March 2011</td>
+                </tr> 
+</table><br />
+			<br /><img src="../images/hr.jpg" /><br clear="all" />
+			<br /> 			
+			<table border="0" width="90%">
+				<tr>
+					<td width="80%" class="magtitle"><h2 class="majorHeading1">Technology evolution: When is it the right time to change? by Sandra Jones </h2>
+						<em>SDM Magazine Blog</em></td>
+					<td valign="bottom" ><a href="http://www.sdmmag.com/blogs/14-sdm-blog/post/86323-sdm-blog-2011-03-21-technology-evolution-when-is-it-the-right-time-to-change-" target="_blank" >Read 
+						More</a></td>
+				</tr>
+				<tr>
+					<td width="80%">March 2011</td>
+				</tr>
+		</table>
+			<br />
+<br />
+            <img src="../images/hr.jpg" alt="Security Industry Resource and Consultants" />
+			<br clear="all" />
+			<br />
+			<table border="0" width="90%">
+				<tr>
+					<td width="80%" class="magtitle"><h2 class="majorHeading1">Analysts See Growing Pains, Gains Ahead</h2>
+						<em>Security Sales and Integration Magazine</em></td>
+					<td valign="bottom" ><a href="../documents/Security sales forecast.pdf" target="_blank" >Read 
+						More</a></td>
+				</tr>
+				<tr>
+					<td width="80%">January 2011</td>
+				</tr>
+		</table>
+			<br />
+			<br />
+			<img src="../images/hr.jpg" alt="Security Industry Resource and Consultants" />
+			<br clear="all" />
+			<br />
+			<table border="0" width="90%">
+				<tr>
+					<td><h2 class="majorHeading1">ISC West 2010 Keynote Panel Video:</h2></td>
+				</tr>
+				<tr>
+					<td>Sandra Jones and other industry leaders speak about technology and business changes affecting security industry</td>
+				</tr>
+			</table>
+
+<br />
+	<br />
+
+	<object id="flashObj2" width="480" height="270" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,47,0">
+		<param name="movie" value="http://c.brightcove.com/services/viewer/federated_f9?isVid=1&amp;isUI=1" />
+		<param name="bgcolor" value="#FFFFFF" />
+		<param name="flashVars" value="videoId=74046469001&playerID=1214883546001&playerKey=AQ~~,AAAAAGL7Lpg~,7QJgBeLR9Fmnyu26fzmONhXlS51Bj6FZ&domain=embed&dynamicStreaming=true" />
+		<param name="base" value="http://admin.brightcove.com" />
+		<param name="seamlesstabbing" value="false" />
+		<param name="allowFullScreen" value="true" />
+		<param name="swLiveConnect" value="true" />
+		<param name="allowScriptAccess" value="always" />
+		<embed src="http://c.brightcove.com/services/viewer/federated_f9?isVid=1&amp;isUI=1" bgcolor="#FFFFFF" flashvars="videoId=74046469001&playerID=1214883546001&playerKey=AQ~~,AAAAAGL7Lpg~,7QJgBeLR9Fmnyu26fzmONhXlS51Bj6FZ&domain=embed&dynamicStreaming=true" base="http://admin.brightcove.com" name="flashObj" width="480" height="270" seamlesstabbing="false" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" swliveconnect="true" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></embed>
+	</object>
+	<br />
+	<br />
+	<br />
+<p></p>
+<img src="../images/hr.jpg" /><br clear="all" />
+<br /> 
+<table border=0 width="90%"> <tr>
+                  
+                <td width="80%"> 
+                  <h2 class="majorHeading1">Industry Trends and Challenges</h2>  
+<em>Security Sales and Integration Magazine</em>                  
+                </td>
+                  
+                <td valign="BOTTOM" ><a href="../documents/security sales trends.pdf" target="_blank" >Read 
+                  More</a></td>
+                </tr> <tr>
+                  
+                <td width="80%">December 2010 </td>
+                </tr> 
+</table>
+            <br />
+            <br /><img src="../images/hr.jpg" /><br clear="all" />
+            <br /> 
+            <table border=0 width="90%"> <tr>
+                  
+                <td width="80%"> 
+                  <h2 class="majorHeading1">Outlook for 2010 by Sandy Jones<br />
+                  Securing New Ground Conference                  </h2>                   
+                </td>
+                  
+                <td valign="BOTTOM" ><a href="../documents/SJ 2010 Outlook.pdf" target="_blank" >Read 
+                  More</a></td>
+                </tr> <tr>
+                  
+                <td width="80%">November 2010 </td>
+                </tr> 
+</table>
+            <br />
+            <br />
+            <img src="../images/hr.jpg" alt="Security Industry Resource and Consultants" /><br clear="all" />
+            <br />
+            <table border=0 width="90%">
+            	<tr>
+                <td width="80%"><h2 class="majorHeading1">Dealer and Integrator Trends by Sandy Jones</h2> 
+                  <em>2010 Securing New Ground Annual</em>  </td>
+                <td valign="BOTTOM" ><a href="../documents/2010 SJCO SNGAR.pdf" target="_blank" >Read 
+                  More</a></td>
+              </tr>
+              <tr>
+                <td width="80%">November 2010 </td>
+              </tr>
+            </table>
+            <br />
+            <br />
+            <img src="../images/hr.jpg" alt="Security Industry Resource and Consultants" /><br clear="all" />
+            <br />
+            <table border=0 width="90%">
+            	<tr>
+                <td width="80%"><h2 class="majorHeading1">Strategies for Competitive Advantage: M&amp;A </h2>
+                  <em>ISC West Show Daily</em></td><td valign="BOTTOM" ><a href="../documents/2010 ISC W Show Daily.pdf" target="_blank" >Read More</a></td>
+              </tr>
+              <tr>
+                <td width="80%">March 2010 </td>
+              </tr>
+            </table>
+            <br />
+            <br />
+            <img src="../images/hr.jpg" /><br clear="all" />
+            <br />
+            <table border=0 width="90%">
+            	<tr> 
+                <td width="80%"> 
+                  <h2 class="majorHeading1">2009 Key Security Supplier Consolidators 
+                    Chart<br />
+                    by Sandra Jones </h2>
+                </td>
+                <td valign="BOTTOM" ><a href="supplierconsolidation.pdf" target="_blank" >Read 
+                  More</a></td>
+              </tr>
+              <tr> 
+                <td width="80%">January 2010 </td>
+              </tr>
+            </table>
+            <br />
+            <br />
+            <img src="../images/hr.jpg" alt="Security Industry Resource and Consultants" /><br clear="all" />
+            <br />
+<table border=0 width="90%">
+	<tr>
+    <td width="80%"><h2 class="majorHeading1">How to Boost RMR: Video Will Grow Profits<br />
+SP&amp;T News</h2>      
+                </td>
+    <td valign="BOTTOM" ><a href="http://www.sptnews.ca/Monitoring/Editorials/how-to-boost-rmr-video-will-grow-profits.html" target="_blank" >Read More</a></td>
+  </tr>
+  <tr>
+                <td width="80%">January 2010</td>
+  </tr>
+</table>
+            <br />
+            <br />
+            <img src="../images/hr.jpg" alt="Security Industry Resource and Consultants" /><br clear="all" />
+            <br />
+<table border=0 width="90%">
+	<tr>
+    <td width="80%"><h2 class="majorHeading1">Industry Trends &amp; Challenges</h2> 
+   <em>Security Sales and Integration Magazine</em>     
+      </td>
+    <td valign="BOTTOM" ><a href="http://www.securitysales.com/t_inside.aspx?action=article&storyID=3420" target="_blank" >Read 
+      More</a></td>
+  </tr>
+  <tr>
+                <td width="80%">December 2009 </td>
+  </tr>
+</table>
+            <br />
+            <br />
+            <img src="../images/hr.jpg" /><br clear="all" />
+            <br />
+              <table border=0 width="90%">
+              	<tr>
+                  <td width="80%"><h2 class="majorHeading1">What's Up and What's Down in Security 
+                    Industry M&A</h2></td>
+                  <td valign="BOTTOM" ><a href="ISCW09ShowDaily4-2009.pdf" target="_blank" >Read 
+                    More</a></td>
+                </tr>
+                <tr>
+                  
+                <td width="80%">ARTICLE</td>
+                </tr>
+              </table>
+              
+            <br />
+            <br />
+            <img src="../images/hr.jpg" /><br clear="all" />
+            <br />
+              <table border=0 width="90%">
+              	<tr>
+                  <td width="80%"> 
+                    <h2 class="majorHeading1">Valuation and Financial Due Diligence 
+                      Services Now Available from Sandra Jones and Company</h2>
+                  </td>
+                  <td valign="BOTTOM" ><a href="../PR-SJANDCO-10-2008.asp" target="_blank" >Read 
+                    More</a></td>
+                </tr>
+                <tr>
+                  <td width="80%">PRESS RELEASE <br />
+                  October 2008</td>
+                </tr>
+              </table>
+              <br />
+              <br /><img src="../images/hr.jpg" /><br clear="all" />
+              <br /> 
+              <table border=0 width="90%">
+              	<tr>
+                  <td width="80%"> <h2 class="majorHeading1">The Perfect Storm: Does the security 
+                      market have the makings for the perfect storm?</h2>
+                  </td>
+                  <td valign="BOTTOM" ><a href="perfectStorm.pdf" target="_blank" >Read 
+                    More</a></td>
+                </tr>
+                <tr>
+                  
+                <td width="80%">April 2006</td>
+                </tr>
+              </table>
+              <br /><br /> <img src="../images/hr.jpg" /><br clear="all" />
+              <br /> 
+              <table border=0 width="90%">
+              	<tr>
+                  <td width="80%"> <h2 class="majorHeading1">Integration Moves to the Next Level.</h2>
+                  </td>
+                  <td ><a href="integrationMovesNextLevel.pdf" target="_blank" >Read 
+                    More</a></td>
+                </tr>
+                <tr>
+                  
+                <td width="80%">March 2006</td>
+                </tr>
+              </table>
+              <br /> <br /> <img src="../images/hr.jpg" /><br clear="all" />
+              <br /> 
+              <table border=0 width="90%"> 
+	<tr> <td width="80%"> <h2 class="majorHeading1">2005 <i>SSI</i> Hall of Fame: 6 
+Attain Industry Immortality</h2></td><td valign="BOTTOM" ><a href="http://www.securitysales.com/t_inside.aspx?action=article&amp;storyID=1919" target="_blank" >Read 
+More</a></td></tr> <tr> <td width="80%"> <i>Security Sales & Integration Magazine</i></td><td >&nbsp;</td></tr> 
+<tr> 
+                <td width="80%">March 2005</td>
+              </tr> </table><br /> <br /> <img src="../images/hr.jpg" /><br clear="all" />
+              <br /> 
+<table border=0 width="90%"> <tr> <td width="80%"><h2 class="majorHeading1">Security's 
+Top 25 People in the Security Industry </h2></td><td valign="BOTTOM" ><a href="http://www.securitymagazine.com/Articles/Cover_Story/BNP_GUID_9-5-2006_A_10000000000000207241" target="_blank" >Read 
+More</a></td></tr> <tr> <td width="80%"><i>Security Magazine</i></td><td >&nbsp;</td></tr> 
+<tr> 
+                <td width="80%">December 2007</td>
+              </tr> </table><br /> <br /> <img src="../images/hr.jpg" /><br clear="all" />
+              <br /> 
+<table border=0 width="90%"> <tr><td width="80%"> <h2 class="majorHeading1">Open 
+Security Exchange retains Sandra Jones on OSE's Advisory Board.</h2></td><td valign="BOTTOM" ><a href="ose_new_officers.pdf" target="_blank" >Read 
+More</a></td></tr> <tr>
+                  
+                <td width="80%">December 2004 </td>
+                  <td >&nbsp;</td></tr> </table><br /><br /> 
+<img src="../images/hr.jpg" /><br clear="all" />
+<br /> 
+<table border=0 width="90%"> <tr><td width="80%"> <h2 class="majorHeading1">Digital Revolution Video by Sandra Jones featured on 
+Security Magazine.com</h2></td><td valign="BOTTOM" ><a href="http://www.securitymag.com/CDA/ArticleInformation/features/BNP__Features__Item/0,5411,123065,00.html" target="_blank" >Read 
+More</a></td></tr> <tr>
+                <td width="80%">May 2004</td>
+                <td >&nbsp;</td></tr> </table><br /><br /> 
+<img src="../images/hr.jpg" /><br clear="all" />
+<br /> 
+<table border=0 width="90%"> <tr><td width="80%"> <h2 class="majorHeading1"> Security In The Swamps</h2></td><td rowspan=2 valign="BOTTOM" ><a href="http://industryclick.com/Magazinearticle.asp?magazineid=119&magazinearticleid=135809&releaseid=9673&siteid=" target="_blank" >Read 
+More</a></td></tr> <tr><td width="80%"> </td></tr>
+<tr>
+  <td>ARTICLE</td>
+  <td valign="BOTTOM" >&nbsp;</td>
+</tr>
+</table>
+<br /><br /> <img src="../images/hr.jpg" /><br clear="all" />
+<br clear="all" /> 
+<table border=0 width="90%"> <tr><td width="80%"> <h2 class="majorHeading1">At Securing New Ground, Industry's Elite Cite Sept. 11 as a Turning Point</h2></td><td valign="BOTTOM" ><a href="sng_article.pdf" target="_blank" >Read 
+More</a></td></tr> <tr>
+                <td width="80%">ARTICLE</td>
+                <td >&nbsp;</td></tr> </table><br /><br /> 
+<img src="../images/hr.jpg" /><br clear="all" />
+<br clear="all" /> 
+<table border=0 width="90%"> <tr><td width="80%"> <h2 class="majorHeading1">Dealer Programs Serve Up Silver Platter of Support 
+Services</h2></td><td rowspan=2 valign="BOTTOM" ><a href="silverplatter.html" >Read 
+More</a></td></tr> <tr><td width="80%"></td></tr>
+<tr>
+  <td>ARTICLE</td>
+  <td valign="BOTTOM" >&nbsp;</td>
+</tr>
+</table>
+<br /><br /> <img src="../images/hr.jpg" /><br clear="all" />
+<br clear="all" /> 
+            <table border=0 width="90%">
+            	<tr>
+                <td width="80%"> <h2 class="majorHeading1">Fire Alarm Market - What is 
+                    Driving It?</h2>
+                </td>
+                <td valign="BOTTOM" ><a href="marketarticle2000.doc" target="_blank" >Read 
+                  More</a></td>
+              </tr>
+              <tr>
+                <td>ARTICLE</td>
+                <td valign="BOTTOM" >&nbsp;</td>
+              </tr>
+            </table>
+            <br /><br /> <img src="../images/hr.jpg" /><br clear="all" />
+            <br clear="all" /> 
+            <table border=0 width="90%"> 
+	<tr><td width="80%"> <h2 class="majorHeading1">Is the Commercial on a Hot Streak?</h2></td><td rowspan=2 valign="BOTTOM" ><a href="commercial.html" target="_blank" >Read 
+More</a></td></tr> <tr><td width="80%"></td></tr>
+<tr>
+  <td>ARTICLE</td>
+  <td valign="BOTTOM" >&nbsp;</td>
+</tr>
+            </table>
+            <br /><br /> <img src="../images/hr.jpg" /><br clear="all" />
+            <br clear="all" /> 
+            <table border=0 width="90%">
+            	<tr>
+                <td width="80%"> <h2 class="majorHeading1"> On the Job</h2>
+                </td>
+                <td valign="BOTTOM" ><a href="crains.pdf" target="_blank" >Read 
+                  More</a></td>
+              </tr>
+              <tr>
+                <td>ARTICLE</td>
+                <td valign="BOTTOM" >&nbsp;</td>
+              </tr>
+            </table>
+            <br /><br /> 
+<img src="../images/hr.jpg" /><br clear="all" />
+<br clear="all" /> 
+            <table border=0 width="90%">
+            	<tr>
+                <td width="80%"> <h2 class="majorHeading1">Dealer Support: A Win Win Proposition for the Security Industry</h2>
+                </td>
+                <td valign="BOTTOM" ><a href="winwin.pdf" target="_blank" >Read 
+                  More</a></td>
+              </tr>
+            </table>
+            <br /><br /> <img src="../images/hr.jpg" /><br clear="all" />
+            <br clear="all" /> 
+            <table border=0 width="90%">
+            	<tr>
+                <td width="80%"> <h2 class="majorHeading1">Does the security market have 
+                    the makings for the perfect storm?</h2>
+                </td>
+                <td valign="BOTTOM" ><a href="SecProducts2006.pdf" target="_blank" >Read 
+                  More</a></td>
+              </tr>
+              <tr>
+                <td>ARTICLE</td>
+                <td valign="BOTTOM" >&nbsp;</td>
+              </tr>
+            </table>
+            <br /><br /> <img src="../images/hr.jpg" /><br clear="all" /> 
+            <table border=0 width="90%">
+              <tr>
+                <td width="80%"> <h2 class="majorHeading1">Knowledge Metrics: Integration Moves to Next Level</h2>
+                </td>
+                <td valign="BOTTOM" ><a href="Security2006-03-color.pdf" target="_blank" >Read 
+                  More</a></td>
+              </tr>
+            </table>
+            <br /><br /><p> 
+<!--end body content--> <!--#INCLUDE file="../footer.asp" --></p>
