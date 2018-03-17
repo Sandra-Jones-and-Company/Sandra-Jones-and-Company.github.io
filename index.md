@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="header-container jumbotron">
-    <div class="container">
+    <div class="container" style="background-color: rgba(9,9,9,.5)">
         <h1>Sandra Jones and Company</h1>
         <p>Security Industry Resource and Consulting Firm</p>
         <p><a class="btn btn-primary btn-lg" href="{{ " /about/home/ " | prepend: site.baseurl }}" role="button">Learn more</a></p>
