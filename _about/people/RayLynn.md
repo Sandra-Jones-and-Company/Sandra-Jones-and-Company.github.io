@@ -41,8 +41,5 @@ Ray assists SJandCO clients manage for profits in the following areas:
 
 <p>
 Raymond can be reached at <a href="mailto:ray@sjandco.com">ray@sjandco.com</a> and 203-266-6928</p>
-
-                <br />
-
 <p>
 Sandy can be reached at <a href="mailto:sandy@sjandco.com">sandy@sjandco.com</a></p>
