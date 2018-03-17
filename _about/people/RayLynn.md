@@ -4,7 +4,7 @@ permalink: /about/RayLynn/
 ---
 
 <h3> Senior Financial Consultant</h3>
-![Ray Lynn]({{site.baseurl}}/img/RayLynn.jpg)
+![Ray Lynn]({{site.baseurl}}/img/raylynn.jpg)
 <p>
 Raymond is a respected and experienced consultant in the security industry providing financial analysis, consulting, auditing and acquisition support services.  Prior to independent consulting, Raymond spent 18 years and managing internal audit, acquisition and compliance work for National Guardian Security Services, Holmes Protection Group, ADT Security Services and HSM Elec. Protection Services.  
 </p><p>
