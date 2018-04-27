@@ -20,4 +20,5 @@ before_script:
 script: ./script/cibuild
 exclude: [vendor]
 sudo: false
-fqdn: sjandco.com
+deploy:
+  fqdn: sjandco.com
