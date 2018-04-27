@@ -15,7 +15,7 @@ layout: default
     <div class="row">
         <div class="col-md-6">
             <p>Since its inception in 1990, Sandra Jones and Company has remained focused on assisting suppliers, new entrants and investors to optimize their investment and potential in security industry. The company team' combined experience in the market exceeds 100 years with diverse backgrounds and skill sets. </p>
-            <p>n order to provide clients one organization for total business support and success, Sandra Jones and Company offers solutions and services from the security industry's most respected and talented specialists worldwide. New entrants as well as established industry participants benefit equally by having one reliable source able to assist them maximize profits and accelerate results.</p>
+            <p>In order to provide clients one organization for total business support and success, Sandra Jones and Company offers solutions and services from the security industry's most respected and talented specialists worldwide. New entrants as well as established industry participants benefit equally by having one reliable source able to assist them maximize profits and accelerate results.</p>
             <p>Sandra Jones and Company services suppliers, investors, government agencies, public utilities, trade associations, and security buyers in North America. The Company has affiliates specializing in serving Europe, the UK, India and Israel.</p>           
             <h3 class="header-light regular-pad">By using Sandra Jones and Company you are guarenteed to:</h3>
                 <ol type="1">
